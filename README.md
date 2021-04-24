@@ -1,8 +1,12 @@
 # Calculadora-Ionic
 Calculadora: https://calculadora-3e761.web.app/home
 
-#Tecnologias
--Ionic
+## Tecnologí utilizada
+
+-Ionic 6
+
 -HTML
+
 -CSS3
--Angular
+
+-Angular 11
