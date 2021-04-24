@@ -11,4 +11,4 @@ Calculadora: https://calculadora-3e761.web.app/home
 
 -Angular 11
 
-![](c1.PNG)
+<img src="c1.PNG" alt="c1" width="600"/>
